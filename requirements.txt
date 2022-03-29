@@ -1,0 +1,10 @@
+certifi==2021.10.8
+wincertstore==0.2
+Flask==1.1.2
+numpy==1.19.2
+pandas==1.1.3
+requests==2.24.0
+itsdangerous==2.0.1
+scikit-learn
+Pillow
+gunicorn == 20.0.4
