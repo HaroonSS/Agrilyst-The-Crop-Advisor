@@ -7,4 +7,4 @@ requests==2.24.0
 itsdangerous==2.0.1
 scikit-learn
 Pillow
-gunicorn == 20.0.4
+gunicorn 
